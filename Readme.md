@@ -1,6 +1,6 @@
 # PORTIFÓLIO DA MINHA TRAJETÓRIA NA REPROGRAMA
 
-## Olá a toda(o)s, sejam bem vindos, esse é meu portifólio com os projetos desenvolvidos para aquisição de título de Desenvolvedora Front-End pela Reprograma.
+## Olá a toda(o)s, sejam bem vindos, esse é meu portifólio com os projetos desenvolvidos no curso de Front-End da Reprograma.
 
 Para construção desse portifólio foram usadas habilidades com base conceitual em React e uso de React Hooks.
 
